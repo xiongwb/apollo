@@ -1,0 +1,6 @@
+framework module NKeyBoard {
+  umbrella header "NKeyBoard.h"
+
+  export *
+  module * { export * }
+}
